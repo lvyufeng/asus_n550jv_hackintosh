@@ -2,7 +2,7 @@
 This EFI file is forked from [bakedpotato191](https://github.com/bakedpotato191), where the origin repository has been deleted. This repository is only used for backup.
 
 ## Software version
-**macOS version:** 10.8 - 11.2.3
+**macOS version:** 10.8 - 11.4
 
 **OpenCore version**: [0.6.8](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.8)
 
